@@ -1,0 +1,1 @@
+javascript:var style=document.createElement('style');style.innerText='.widget-handle {width: 8px;height: 8px;float: left;margin-left: 0px;margin-top: 0px;border-radius: 9px;position: relative;}';var head=document.getElementsByTagName('head')[0];head.appendChild(style);
